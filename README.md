@@ -4,7 +4,7 @@ I enjoy programming, lifitng, and generally socializing with friends
 
 I am currently learning C++, web development, and a little about hardware
 
-I'm open to collaborating and meeting new people, so feel free to pm me anytime!
+I'm open to collaborating and meeting new people, so feel free to email me at kevnnliu@gmail.com anytime!
 
 Also feel free to check out my [linkedin](https://www.linkedin.com/in/kevin-liu-b0b45b233)
 
