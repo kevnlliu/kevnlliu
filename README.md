@@ -1,4 +1,4 @@
-### Hi there! My name is Kevin and I am a first-year CS student at UCI 
+### Hi there! My name is Kevin and I am a first-year CS student at UCI! 
 
 **About Me**  
 I enjoy programming, lifitng, and generally socializing with friends 
