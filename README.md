@@ -1,14 +1,14 @@
-### Hi there! My name is Kevin and I am a second-year CS student at UCI! 
+### Hi there! My name is Kevin and I am a second-year CS and Mathematics student at UCI! 
 
 **About Me**  
 I enjoy programming, lifitng, and generally socializing with friends 
 
-I am currently learning C++, web development, and a little about hardware
+I am currently learning more about Web development, Computer Organization, and more about certain DevOps
 
 **Contact**  
 I'm open to collaborating and meeting new people, so feel free to email me at kevnnliu@gmail.com anytime!
 
-Also feel free to check out my [linkedin](https://www.linkedin.com/in/kevin-liu-b0b45b233)
+Also feel free to check out my [linkedin](https://www.linkedin.com/in/kevinnliu/)
 
 <!--
 **kevnlliu/kevnlliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
