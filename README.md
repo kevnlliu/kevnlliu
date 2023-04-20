@@ -3,10 +3,10 @@
 **About Me**  
 I enjoy programming, lifitng, and generally socializing with friends 
 
-I am currently learning more about Web development, Computer Organization, and more about certain DevOps
+I am currently learning more about Web development, Game Theory, Optimization, and Machine Learning
 
 **Contact**  
-I'm open to collaborating and meeting new people, so feel free to email me at kevnnliu@gmail.com anytime!
+I'm open to collaborating and meeting new people, so feel free to email me at kevinliu.ucirvine@gmail.com anytime!
 
 Also feel free to check out my [linkedin](https://www.linkedin.com/in/kevinnliu/)
 
