@@ -1,9 +1,4 @@
-### Hi there! My name is Kevin and I am a third-year CS and Mathematics student at UCI! 
-
-**About Me**  
-I enjoy programming, lifitng, and generally socializing with friends 
-
-I am currently learning more about Web development, Game Theory, Optimization, and Machine Learning
+### Hi there! My name is Kevin and I am a fourth-year CS and Mathematics student at UCI! 
 
 **Contact**  
 I'm open to collaborating and meeting new people, so feel free to email me at kevinliu.ucirvine@gmail.com anytime!
