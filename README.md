@@ -1,4 +1,4 @@
-### Hi there! My name is Kevin and I am a fourth-year CS and Mathematics student at UCI! 
+### Hi there! My name is Kevin and I am a junior swe at Meta! 
 
 **Contact**  
 I'm open to collaborating and meeting new people, so feel free to email me at kevinliu.ucirvine@gmail.com anytime!
